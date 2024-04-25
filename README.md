@@ -5,7 +5,7 @@ Series of Challenges proposed in Python
 Challenge_1.py: Main code to extract values above 1000 from a CSV file.
   - User can set the file name, columns and values to extract the data
 
-Challenge_w.py: Main code to retrieve information from the Current Weather APU
+Challenge_2.py: Main code to retrieve information from the Current Weather APU
   - User can search for city and can decide when stop looking for city information
 
 
